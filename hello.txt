@@ -8,5 +8,6 @@ hello, aiguigu!
 hello, aiguigu!
 hello, aiguigu!
 hello, aiguigu! master test
+hello, aiguigu! hot-fix test
 hot-fix 
 修复bug
